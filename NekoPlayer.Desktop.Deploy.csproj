@@ -38,7 +38,4 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="templates\NekoPlayer.app\Contents\" />
-  </ItemGroup>
 </Project>
